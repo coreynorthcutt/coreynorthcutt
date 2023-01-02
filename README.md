@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Corey Northcutt
 - 👀 I’m interested in creating and optimizing sites that deliver joy
-- 🌱 I’m currently learning more javascript
 - 🎢 I'm currently tinkering with a fun project: an [investment calculator](https://roi.fyi) at roi.fyi
 - 💞️ I’m growing with brands $50M+ as Chief Optimization Officer at https://orbitmedia.com
+- 🌱 I’m fluent in in Java, PHP, SQL, and Javascript
 - 📫 You can email me at https://coreynorthcutt.com/connect/
 
 <!---
