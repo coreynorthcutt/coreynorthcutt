@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Corey Northcutt
-- 💞️ I’m growing an SEO/CRO/analytics crew team as Chief Optimization Officer at [Orbit Media Studios](https://orbitmedia.com)
+- 💞️ I’m growing the SEO/CRO team at [Orbit Media Studios](https://orbitmedia.com) as Chief Optimization Officer 
 - 👀 I’m interested in creating and optimizing sites that deliver joy
 - 🎢 My current fun project is this little [investment calculator](https://roi.fyi) at roi.fyi
 - 🌱 I’m fluent in in Java, PHP, SQL, and Javascript
